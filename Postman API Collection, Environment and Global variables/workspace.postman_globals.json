@@ -1,0 +1,75 @@
+{
+	"id": "557bcf88-166e-441e-81ea-57203416803a",
+	"values": [
+		{
+			"key": "token",
+			"value": "",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "xkey",
+			"value": "ROADTOSDET",
+			"type": "secret",
+			"enabled": true
+		},
+		{
+			"key": "agentID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "merchantID",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "customerID1",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "customerID2",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "agentNo",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "merchantNo",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "customerNo1",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "customerNo2",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "",
+			"value": "",
+			"type": "default",
+			"enabled": false
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2025-01-23T06:03:43.247Z",
+	"_postman_exported_using": "Postman/11.29.3"
+}
